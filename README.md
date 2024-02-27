@@ -1,3 +1,4 @@
+![Salary_prediction_Project_Poster](https://github.com/MadihaRaheel/Data_Science_Salary_Prediction_Python/assets/150162870/af325605-7e56-47ab-8e4f-0334645936a7)
 # Data_Science_Slalary_Prediction_Python
 Data-Driven Salary Prediction for Data Professionals.
 <br>
